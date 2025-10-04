@@ -1,12 +1,22 @@
-# React + Vite
+# Automatic Background Colour Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive React application that automatically changes the background color at regular intervals, with user controls to start and stop the color transitions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **Automatic Background Color Change**: The background color changes automatically at set intervals.
+- **Start/Stop Control**: Users can start and stop the automatic color change.
+- **Built with React**: Utilizes React for building the user interface and managing state.
+- **Lightweight and Responsive**: Designed to be lightweight and responsive across devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Layer             | Technology        |
+|-------------------|-------------------|
+| Frontend          | React.js          |
+| Build Tool        | Vite              |
+| Styling           | CSS               |
